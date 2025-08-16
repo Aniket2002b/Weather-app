@@ -1,16 +1,3 @@
-# climateeee
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This application is made using Flutter for cross platforms, The main objective of the application is to fetch the current
+location using GPS of mobile device and get the current weather data using weather website API by sending location. You
+can also get the live weather report of any of the desired place by searching options.
